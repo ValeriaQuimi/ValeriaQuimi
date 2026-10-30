@@ -2,8 +2,12 @@
 
 Estudiante de Ingeniería en Computación.
 
-Interesado en el desarrollo web y la inteligencia artificial. 
+Interesada en el desarrollo web y la inteligencia artificial. 
 
+
+## Sobre mí
+
+Me caracterizo por mi responsabilidad, creatividad, capacidad para resolver problemas y facilidad para trabajar en equipo. 
 <!--
 **ValeriaQuimi/ValeriaQuimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
