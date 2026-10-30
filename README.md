@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hola, Soy Valeria Quimí
+
+Estudiante de Ingeniería en Computación.
+
+Interesado en el desarrollo web y la inteligencia artificial. 
 
 <!--
 **ValeriaQuimi/ValeriaQuimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
