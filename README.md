@@ -8,6 +8,19 @@ Interesada en el desarrollo web y la inteligencia artificial.
 ## Sobre mí
 
 Me caracterizo por mi responsabilidad, creatividad, capacidad para resolver problemas y facilidad para trabajar en equipo. 
+
+
+## Habilidades y tecnologías
+- Java                                      - HTML
+- Python                                    - CSS
+- JavaScript                                - MySQL
+- C                                         - MongoDB
+- Git                                       - Figma
+- GitHub                                    - Visual Studio Code
+
+
+
+
 <!--
 **ValeriaQuimi/ValeriaQuimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
