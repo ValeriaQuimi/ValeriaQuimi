@@ -38,8 +38,6 @@ Landing page informativa sobre el Museo Nacional del Cacao de Guayaquil. Present
 
 **Herramientas:** Git, GitHub y GitHub Pages.
 
-**Colaboradora:** Nicole Guevara.
-
 🔗 [Ver sitio web](https://valeriaquimi.github.io/dawm-proyecto-02/) | [Ver repositorio](https://github.com/ValeriaQuimi/dawm-proyecto-02)
 
 
@@ -53,3 +51,13 @@ Desarrollo de una aplicación para gestionar y visualizar una red de vuelos entr
 **Herramientas:** Android Studio.
 
 🔗[Ver repositorio](https://github.com/JulioLlerena1/Proyecto-ED-Grupo-10)
+
+
+
+### 📄 3. Currículum vitae web
+
+Desarrollo de una página web de currículum vitae que organiza información académica, experiencia, habilidades, proyectos y datos de contacto mediante una interfaz estructurada y adaptable.
+
+**Tecnologías:** HTML5 y CSS3.
+
+🔗[Ver repositorio](https://github.com/ValeriaQuimi/dawm-cv ) 
