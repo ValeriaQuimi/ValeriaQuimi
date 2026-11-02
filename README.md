@@ -11,27 +11,21 @@ Me caracterizo por mi responsabilidad, creatividad, capacidad para resolver prob
 
 
 ## Habilidades y tecnologías
-- Java                                      - HTML
-- Python                                    - CSS
-- JavaScript                                - MySQL
-- C                                         - MongoDB
-- Git                                       - Figma
-- GitHub                                    - Visual Studio Code
+
+| Tecnología o herramienta | Aplicación |
+|---|---|
+| **Java** | Desarrollo de aplicaciones y ejercicios de programación. |
+| **Python** | Desarrollo de programas y resolución de problemas. |
+| **JavaScript** | Implementación de funcionalidades e interactividad en páginas web. |
+| **HTML** | Estructuración y organización del contenido de páginas web. |
+| **CSS** | Diseño, estilos y presentación de páginas web. |
+| **MySQL** | Creación, organización y gestión de bases de datos relacionales. |
+| **MongoDB** | Gestión y almacenamiento de datos en bases de datos NoSQL. |
+| **Git** | Control de versiones y seguimiento de cambios en proyectos. |
+| **GitHub** | Administración de repositorios y colaboración en proyectos. |
+| **Visual Studio Code** | Edición y desarrollo de código. |
+| **Figma** | Diseño de interfaces y elaboración de prototipos. |
+| **Linux** | Uso de comandos y herramientas del entorno Linux. |
 
 
 
-
-<!--
-**ValeriaQuimi/ValeriaQuimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
