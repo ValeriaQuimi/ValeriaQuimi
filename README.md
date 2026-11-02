@@ -27,6 +27,7 @@ Me caracterizo por mi responsabilidad, creatividad, capacidad para resolver prob
 | **Figma** | Diseño de interfaces y elaboración de prototipos. |
 | **Linux** | Uso de comandos y herramientas del entorno Linux. |
 
+
 ##  Proyectos académicos
 
 ### 🍫 1. Un día en el Museo del Cacao
@@ -41,3 +42,14 @@ Landing page informativa sobre el Museo Nacional del Cacao de Guayaquil. Present
 
 🔗 [Ver sitio web](https://valeriaquimi.github.io/dawm-proyecto-02/) | [Ver repositorio](https://github.com/ValeriaQuimi/dawm-proyecto-02)
 
+
+
+### ✈️ 2. Sistema de gestión de vuelos en aeropuertos
+
+Desarrollo de una aplicación para gestionar y visualizar una red de vuelos entre aeropuertos. Implementa grafos dirigidos y ponderados para representar conexiones y consultar rutas óptimas entre destinos.
+
+**Tecnologías:** Java.
+
+**Herramientas:** Android Studio.
+
+🔗[Ver repositorio](https://github.com/JulioLlerena1/Proyecto-ED-Grupo-10)
