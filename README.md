@@ -27,5 +27,17 @@ Me caracterizo por mi responsabilidad, creatividad, capacidad para resolver prob
 | **Figma** | Diseño de interfaces y elaboración de prototipos. |
 | **Linux** | Uso de comandos y herramientas del entorno Linux. |
 
+##  Proyectos académicos
 
+### 🍫 1. Un día en el Museo del Cacao
+
+Landing page informativa sobre el Museo Nacional del Cacao de Guayaquil. Presenta su historia, importancia cultural, salas de exposición y experiencias para los visitantes.
+
+**Tecnologías:** HTML5, CSS3, JavaScript y CSS Grid.
+
+**Herramientas:** Git, GitHub y GitHub Pages.
+
+**Colaboradora:** Nicole Guevara.
+
+🔗 [Ver sitio web](https://valeriaquimi.github.io/dawm-proyecto-02/) | [Ver repositorio](https://github.com/ValeriaQuimi/dawm-proyecto-02)
 
