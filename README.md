@@ -65,8 +65,8 @@ Desarrollo de una página web de currículum vitae que organiza información aca
 
 ## 📫 Contacto
 
-- LinkedIn: linkedin.com/in/vriaquim
-- GitHub: github.com/ValeriaQuimi
+- **LinkedIn:** [linkedin.com/in/vriaquim](https://www.linkedin.com/in/vriaquim)
+- **GitHub:** [github.com/ValeriaQuimi](https://github.com/ValeriaQuimi)
 
 
 
