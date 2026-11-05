@@ -1,8 +1,8 @@
 # Hola, Soy Valeria Quimí
 
-Estudiante de Ingeniería en Computación.
+🎓 Estudiante de Ingeniería en Computación.
 
-Interesada en el desarrollo web y la inteligencia artificial. 
+💻 Interesada en el desarrollo web y la inteligencia artificial. 
 
 
 ## Sobre mí
@@ -10,7 +10,7 @@ Interesada en el desarrollo web y la inteligencia artificial.
 Me caracterizo por mi responsabilidad, creatividad, capacidad para resolver problemas y facilidad para trabajar en equipo. 
 
 
-## Habilidades y tecnologías
+## 🛠️ Habilidades y tecnologías
 
 | Tecnología o herramienta | Aplicación |
 |---|---|
@@ -28,7 +28,7 @@ Me caracterizo por mi responsabilidad, creatividad, capacidad para resolver prob
 | **Linux** | Uso de comandos y herramientas del entorno Linux. |
 
 
-##  Proyectos académicos
+## 🚀 Proyectos académicos
 
 ### 🍫 1. Un día en el Museo del Cacao
 
@@ -61,3 +61,12 @@ Desarrollo de una página web de currículum vitae que organiza información aca
 **Tecnologías:** HTML5 y CSS3.
 
 🔗[Ver repositorio](https://github.com/ValeriaQuimi/dawm-cv ) 
+
+
+## 📫 Contacto
+
+- LinkedIn: linkedin.com/in/vriaquim
+- GitHub: github.com/ValeriaQuimi
+
+
+
